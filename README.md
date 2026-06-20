@@ -22,23 +22,25 @@ I enjoy working on projects that combine problem-solving, creativity, organizati
 
 ## Projects I’m Interested In
 
-- AI-powered tools
-- Web applications with user authentication
-- Dashboards and data-driven tools
-- Game-based learning experiences
-- UX/UI website redesigns
-- Instructional design and learning technology projects
-- Applications that use data to solve real-world problems
-- Creative technology projects
+-AI-powered tools
+-Web applications with user authentication
+-Dashboards and data-driven tools
+-Data visualization and anomaly detection
+-Geospatial and environmental data applications
+-Game-based learning experiences
+-UX/UI website redesigns
+-Instructional design and learning technology projects
+-Applications that use data to solve real-world problems
 
 ## Skills & Tools
 
-- **Programming Languages:** Java, Python, JavaScript, SQL
-- **Web Development:** HTML, CSS, Full-Stack Development
-- **Databases:** PostgreSQL, Database Design, Data Management
-- **UX/UI Design:** Figma, Wireframing, User-Centered Design, Visual Design
-- **Instructional Design:** Learning Experience Design, Curriculum Design, Educational Technology
-- **Design & Learning Tools:** Figma, Canva, Canvas LMS
-- **Developer Tools:** Git, GitHub, VS Code
-- **Core Skills:** Problem Solving, Debugging, Project Documentation, Software Engineering Principles
+-Programming Languages: Java, Python, JavaScript, SQL
+-Web Development: HTML, CSS, JavaScript, Node.js, full-stack development
+-Data & Databases: PostgreSQL, database design, data management, public API integration
+-AI & Data Analysis: Anomaly detection, pattern recognition, data-driven dashboards
+-UX/UI Design: Figma, wireframing, user-centered design, visual design
+-Instructional Design: Learning experience design, curriculum design, educational technology
+-Design & Learning Tools: Figma, Canva, Canvas LMS
+-Developer Tools: Git, GitHub, VS Code, project documentation
+-Core Skills: Problem solving, debugging, software engineering principles, research, and documentation
 
