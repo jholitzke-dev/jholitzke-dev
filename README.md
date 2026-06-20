@@ -25,15 +25,22 @@ I enjoy working on projects that combine problem-solving, creativity, organizati
 - AI-powered tools
 - Web applications with user authentication
 - Dashboards and data-driven tools
+- Data visualization and anomaly detection
+- Geospatial and environmental data applications
 - Game-based learning experiences
 - UX/UI website redesigns
 - Instructional design and learning technology projects
+- Applications that use data to solve real-world problems
 
 ## Skills & Tools
 
 - **Programming Languages:** Java, Python, JavaScript, SQL
 - **Web Development:** HTML, CSS, JavaScript, Node.js
-- **Data & Databases:** PostgreSQL, database design, data management
-- **UX/UI Design:** Figma, wireframing, user-centered design
+- **Databases:** PostgreSQL, database design, data management
+- **Data Tools:** Public API integration, data-driven dashboards, anomaly detection
+- **UX/UI Design:** Figma, wireframing, user-centered design, visual design
+- **Instructional Design:** Learning experience design, curriculum design, educational technology
+- **Design Tools:** Figma, Canva, Canvas LMS
 - **Developer Tools:** Git, GitHub, VS Code
+- **Core Skills:** Problem solving, debugging, documentation, research
 
